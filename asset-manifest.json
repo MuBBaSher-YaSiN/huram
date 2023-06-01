@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/yo_stars.git/static/css/main.34542476.css",
-    "main.js": "/yo_stars.git/static/js/main.8480562c.js",
-    "static/js/787.4aad1aee.chunk.js": "/yo_stars.git/static/js/787.4aad1aee.chunk.js",
-    "static/media/Artificial Intelligence.png": "/yo_stars.git/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
-    "static/media/Programming.png": "/yo_stars.git/static/media/Programming.0bf799fe1f5f79814d30.png",
-    "static/media/Young Stars Mission.png": "/yo_stars.git/static/media/Young Stars Mission.a917095ac52de2dd5eb7.png",
-    "static/media/Robotics.png": "/yo_stars.git/static/media/Robotics.f03310bb43f7e8d1977f.png",
-    "static/media/Technical Development.png": "/yo_stars.git/static/media/Technical Development.04011b3c1f3fb8f7494d.png",
-    "static/media/websiteLogo.png": "/yo_stars.git/static/media/websiteLogo.385420744b772df2dddc.png",
-    "static/media/testimonial_image.png": "/yo_stars.git/static/media/testimonial_image.82ae2afbaa640a950658.png",
-    "static/media/Mental Development.png": "/yo_stars.git/static/media/Mental Development.ae546dc6ece903c521a4.png",
-    "index.html": "/yo_stars.git/index.html",
-    "main.34542476.css.map": "/yo_stars.git/static/css/main.34542476.css.map",
-    "main.8480562c.js.map": "/yo_stars.git/static/js/main.8480562c.js.map",
-    "787.4aad1aee.chunk.js.map": "/yo_stars.git/static/js/787.4aad1aee.chunk.js.map"
+    "main.css": "/huram.git/static/css/main.34542476.css",
+    "main.js": "/huram.git/static/js/main.0ac3775b.js",
+    "static/js/787.4aad1aee.chunk.js": "/huram.git/static/js/787.4aad1aee.chunk.js",
+    "static/media/Artificial Intelligence.png": "/huram.git/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
+    "static/media/Programming.png": "/huram.git/static/media/Programming.0bf799fe1f5f79814d30.png",
+    "static/media/Young Stars Mission.png": "/huram.git/static/media/Young Stars Mission.a917095ac52de2dd5eb7.png",
+    "static/media/Robotics.png": "/huram.git/static/media/Robotics.f03310bb43f7e8d1977f.png",
+    "static/media/Technical Development.png": "/huram.git/static/media/Technical Development.04011b3c1f3fb8f7494d.png",
+    "static/media/websiteLogo.png": "/huram.git/static/media/websiteLogo.385420744b772df2dddc.png",
+    "static/media/testimonial_image.png": "/huram.git/static/media/testimonial_image.82ae2afbaa640a950658.png",
+    "static/media/Mental Development.png": "/huram.git/static/media/Mental Development.ae546dc6ece903c521a4.png",
+    "index.html": "/huram.git/index.html",
+    "main.34542476.css.map": "/huram.git/static/css/main.34542476.css.map",
+    "main.0ac3775b.js.map": "/huram.git/static/js/main.0ac3775b.js.map",
+    "787.4aad1aee.chunk.js.map": "/huram.git/static/js/787.4aad1aee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34542476.css",
-    "static/js/main.8480562c.js"
+    "static/js/main.0ac3775b.js"
   ]
 }
